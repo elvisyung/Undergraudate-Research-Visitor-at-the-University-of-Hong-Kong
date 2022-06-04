@@ -15,3 +15,4 @@ Research Visitor supervised by lab PI Dr. Juan Diego Gaitan Espitia [https://www
 <img width="743" alt="Screenshot 2022-06-04 at 2 49 23 PM" src="https://user-images.githubusercontent.com/83464019/172003619-0d36fa2d-6aa6-4bdb-9c9a-e5d4e57a7242.png">
 
 ### Figure 2. Molecular Plastid Data 
+<img width="738" alt="Screenshot 2022-06-04 at 2 49 28 PM" src="https://user-images.githubusercontent.com/83464019/172003645-19d1d9f1-8e0a-478e-a047-e6b78e1629c1.png">
