@@ -12,6 +12,6 @@ Research Visitor supervised by lab PI Dr. Juan Diego Gaitan Espitia [https://www
 ![WhatsApp Image 2021-08-05 at 10 20 50 AM](https://user-images.githubusercontent.com/83464019/172001274-4af6c30c-9b5a-47e9-9882-ce6b60ad64ea.jpeg)
 
 ### Figure 1. Morphological and Trait Data 
-
+<img width="743" alt="Screenshot 2022-06-04 at 2 49 23 PM" src="https://user-images.githubusercontent.com/83464019/172003619-0d36fa2d-6aa6-4bdb-9c9a-e5d4e57a7242.png">
 
 ### Figure 2. Molecular Plastid Data 
