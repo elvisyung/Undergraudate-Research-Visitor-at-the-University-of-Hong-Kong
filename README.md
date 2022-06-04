@@ -11,8 +11,8 @@ Research Visitor supervised by lab PI Dr. Juan Diego Gaitan Espitia [https://www
 ## Salix bablonica population distribution 
 ![WhatsApp Image 2021-08-05 at 10 20 50 AM](https://user-images.githubusercontent.com/83464019/172001274-4af6c30c-9b5a-47e9-9882-ce6b60ad64ea.jpeg)
 
-### Figure 1. Morphological and Trait Data 
+### Figure 1. Morphological and Trait Data (Skortsov, 1968) and (Eckenwalder, 1995)
 <img width="743" alt="Screenshot 2022-06-04 at 2 49 23 PM" src="https://user-images.githubusercontent.com/83464019/172003619-0d36fa2d-6aa6-4bdb-9c9a-e5d4e57a7242.png">
 
-### Figure 2. Molecular Plastid Data 
+### Figure 2. Molecular Plastid Data (Zong et al, 2019)
 <img width="738" alt="Screenshot 2022-06-04 at 2 49 28 PM" src="https://user-images.githubusercontent.com/83464019/172003645-19d1d9f1-8e0a-478e-a047-e6b78e1629c1.png">
