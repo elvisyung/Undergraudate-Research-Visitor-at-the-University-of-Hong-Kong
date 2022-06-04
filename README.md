@@ -1,1 +1,1 @@
-# Undergradate-Research-Visitor-Dr.-Juan-Diego-Gait-n-Espitia-University-of-Hong-Kong
+# Undergradate Research Visitor in Dr.Juan Diego Gaitan Espitia Lab in The University of Hong Kong
